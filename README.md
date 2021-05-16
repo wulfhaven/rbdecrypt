@@ -1,10 +1,11 @@
-# Crack encryption
+# Exercise to crack provided encrypted file.
 
-This task is to crack the file encrypted.bin. 
+This is a small excercise to read the provided encrypted file, 
+having access to the obfuscated code that generated it. It's 
+a pretty simple task. 
 
-files:
 ```
-  encrypted.bin - encrypted file that you are supposed to crack.
-  encrypter.jar - a java tool for encrypting files. java -jar encrypter.jar FILE_TO_ENCRYPT
-  README.md - durr...
+    src/ - the horrible, horrible source code.
+    exercise/ - the exercise files. 
+    solution/ - A solution for how to do it in IntelliJ.
 ```
