@@ -1,9 +1,10 @@
 # Conflagrations! You done did it!
 
-### SECRET KEY!
-Yep, very secret.
+### The next task!
+Connect to http://hackathon.redbridge.se/
+And get the login for administrators.
 
-### Important message.
+### Unimportant message.
 
 Leverage agile frameworks to provide a 
 robust synopsis for high level overviews. 
